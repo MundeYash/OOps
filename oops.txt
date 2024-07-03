@@ -1,0 +1,30 @@
+
+
+4 Pillars of OOPs 
+
+Encapulsation : 
+It is the process of combining / warpping up of the data and functions into a single unit called class . 
+It is useful in the data hiding : 
+
+Abstraction : 
+
+
+
+Constructor : 
+It has same name as class , does not have any return type , automatically called at the time of object creation 
+Memory allocation happens when the constructor is called 
+
+Types of constructor : non-parameterised constructor , parameterised constructor , copy constructor 
+
+
+constructor overloading is an example of polymorphism
+
+
+this pointer in c++ 
+
+
+copy constructor : It is a type of special constructor which is used to copy the properties of one object into the other object 
+
+
+shallow copy: deals with making a copy of it and value to original object does not changes   and deep copy : it uses the concept of dynamic memory allocation and pointer and after making changes in the copy the original value also changes due to the pointer  
+
